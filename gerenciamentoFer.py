@@ -1,12 +1,8 @@
 from tkinter import*
 from tkinter import Tk, StringVar, ttk
-import tkinter.font as tkFont
 from tkinter import messagebox
-from tkinter import filedialog as fd
 from PIL import Image, ImageTk
 import csv
-from reportlab.pdfgen import canvas
-import time
 
 
 co0 = "#2e2d2b" # Preta
